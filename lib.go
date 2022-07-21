@@ -1,4 +1,4 @@
-package gomodulereplacea
+package gomodulereplaceb
 
 import "log"
 
